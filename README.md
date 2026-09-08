@@ -42,6 +42,8 @@ Technologies I use to build modern web applications.
 <img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb,linux,vercel" />
 </p>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/efeytrl?cardType=level-alternate&theme=dark&fontFamily=Montserrat&preferLogin=false&borderRadius=15)](https://git.io/awesome-stats-card)
+
 ---
 
 ## Connect With Me
